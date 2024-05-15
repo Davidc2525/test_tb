@@ -1,3 +1,7 @@
+clone
+	
+ 	git clone https://github.com/Davidc2525/test_tb 
+	cd test_tb
 use
   
     ./main help #show this help msg
